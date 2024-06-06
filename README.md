@@ -4,18 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabareeswaran&label=Profile%20views&color=0e75b6&style=flat" alt="msabareeswaran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msabareeswaran" alt="msabareeswaran" /></a> </p>
-side quest
+
 - 🔭 I’m currently working on **3D animations**
 
 - 🌱 I’m currently learning **unity**
 
-- 👯 I’m looking to collaborate on **cloud native projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MSabareeswaran](https://github.com/MSabareeswaran)
 
 - 📫 How to reach me **msabareeswaran96@gmail.com**
-
-- ⚡ Fun fact **I am athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
